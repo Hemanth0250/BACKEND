@@ -1,0 +1,393 @@
+     //double x = 3.53;
+             //double y = 5;
+
+             //double a = Math.Pow(x,3);
+             //double b =Math.Sqrt(x); 
+            //double c = Math.Abs(x);
+            //double d = Math.Round(x);
+            //double e = Math.Ceiling(x);
+            //double f = Math.Floor(x);
+            //double g = Math.Max(x,y);
+            //double h = Math.Min(x,y);
+
+
+            //Console.WriteLine("Max of x and y is" + g);
+            //Console.WriteLine("min of x and y is" + h);
+            //int i =0;
+            //Console.WriteLine("min={0}", int.MinValue);
+            //Console.WriteLine("max={0}", int.MaxValue);
+
+            //double d = 123.3234;
+            //Console.WriteLine(d);
+
+            //decimal d = 12;
+            //Console.WriteLine(d);
+
+            //Strings
+            //string name = @"hemu:prog\git\git0250";
+            //Console.WriteLine(name);
+
+            //operators
+
+            //int i = 10;
+            //bool b = true;
+            //Console.WriteLine(10/2);
+            //Console.WriteLine(10%2);
+            //Console.WriteLine(10);
+            //Console.WriteLine("eneter a no");
+            //string n = Console.ReadLine();
+            //int u = Convert.ToInt32(n);
+            
+            // if (u ==10)
+            //{
+            //    Console.WriteLine("yum");
+            //}
+
+            //int no = 1;
+            //int anono = 20;
+
+            //if (no == 10 || anono == 20)
+            //{
+            //    Console.WriteLine("hello");
+        //    }
+
+        //int no =Convert.ToInt32(Console.ReadLine());
+        //bool IsNumber10 = no == 10 ? true : false;
+        //bool IsNumber10;
+
+        //if (no== 10)
+        //{
+        //    IsNumber10 = true;
+        //}
+        //else{
+        //    IsNumber10 = false;
+        //}
+        //Console.WriteLine("number == 10 is {0}", IsNumber10);
+            
+        // C# values
+
+        //string name = null;
+        //int i = null;
+        //int? i = null;
+        //bool? major =  null;
+        
+        //if (major == true)
+        //{
+        //    Console.WriteLine("user is major");
+        //}
+        //else if(major == false)
+        //{
+            //Console.WriteLine("user is not major");
+/*
+        }
+        else
+        {
+            Console.WriteLine("user did not answer");
+        }
+
+             
+
+            Console.ReadKey();*/
+        //Console.WriteLine("enetr the no of tickets availabe captain");
+        //string tick = Console.ReadLine();
+        //int? ticksale = 100;
+
+        /*int avaitick;
+        if(ticksale == null )
+        {
+            avaitick = 0;
+        }
+        else
+        {
+            avaitick = (int)ticksale;
+        }*/
+        //int? ticksale = 100;
+        //int avaitick = ticksale ?? 0; // null collision operator
+        //Console.WriteLine("available tickets = {0}", avaitick);
+
+
+        // Conversion
+
+        //float f = 12872973324092383.45F;
+        //int i = (int)f; //typecating conversion
+        //int i = Convert.ToInt32(f);
+        //Console.WriteLine(i);
+
+        /*string strno = "100234"; // using parse conversion
+        
+        int result = 0;
+        bool IsConversionsucc =  int.TryParse(strno, out result); // try parse
+
+        if (IsConversionsucc)
+        {
+            Console.WriteLine(result);
+        }
+        else{
+            Console.WriteLine("please enter a valid no");
+        }
+        //Console.WriteLine(i);
+        */
+/*
+        //arrays
+
+        int[] evenno = new int[3];
+        evenno[0] = 0;
+        evenno[1] = 2;
+        evenno[2] = 4;
+
+        Console.WriteLine(evenno);
+
+        //strings
+
+        string[] names = new string[9];
+
+        names[0] = "hemu";
+        names[1] = " gowda";
+
+        Console.Write(names[0]);
+        Console.Write(names[1]);
+*/
+        //Console.WriteLine("hemu");
+
+
+        // xml document comment
+    
+
+    // if statement
+
+
+        // Console.WriteLine("enter a no");
+
+        // int usno = int.Parse(Console.ReadLine());
+
+        // if (usno == 1)
+        // {
+        //     Console.WriteLine("ur no is 1");
+
+        // }
+        // else if (usno == 2)
+        // {
+        //     Console.WriteLine("ur no is 2");
+
+        // }
+        // else if (usno == 3)
+        // {
+        //     Console.WriteLine("ur no is 3"); 
+
+        // }
+        // else
+        // {
+        //     Console.WriteLine("ur no is not bet 1 and 3"); 
+
+        // }
+
+        // if (usno == 10 || usno == 20)
+        // {
+        //     Console.WriteLine("no is 10 or 20");
+        // }
+
+        //switch statement
+
+        // Console.WriteLine("enter a no");
+        // int userno = int.Parse(Console.ReadLine());
+
+        // if (userno== 10)
+        // {
+        //     Console.WriteLine(" no is 10");
+        // }
+        // else if (userno== 20)
+        // {
+        //     Console.WriteLine(" no is 20");
+        // }
+        // else if (userno== 30)
+        // {
+        //     Console.WriteLine(" no is 30");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("ur no is not 10,20,30");
+        // }
+
+        // switch(userno)
+        // {
+        //     case 10:
+                
+        //     case 20:
+                
+        //     case 30:
+        //         Console.WriteLine("ur no is {0}", userno);
+        //         break;
+                
+
+        //     default:
+        //         Console.WriteLine("ur no is not 10,20,30");
+        //         break;
+
+        // }
+
+        //coffe shop using switch
+
+        // int totalcoffeecost = 0;
+        // start:
+        // Console.WriteLine(" please select your coffee : 1 small, 2 medium, 3 large");
+        // int userchoice = int.Parse(Console.ReadLine());
+
+
+        // switch (userchoice)
+        // {
+        //     case 1:
+        //         totalcoffeecost += 1;
+        //         break;
+        //     case 2:
+        //         totalcoffeecost += 2;
+        //         break;
+        //     case 3:
+        //         totalcoffeecost += 3;
+        //         break;
+
+        //     default:
+        //         Console.WriteLine("your choice {0} is invalid", userchoice);
+        //         goto start;
+
+        // }
+
+        // decide:
+        // Console.WriteLine("do you want to buy another coffee - yes/no");
+        // string userdecision = Console.ReadLine();
+
+        // switch (userdecision.ToUpper())
+        // {
+        //     case "YES":
+        //         goto start;
+        //     case "NO":
+        //         break;
+        //     default:
+        //         Console.WriteLine("your choice {0} is invalid. please try again", userdecision);
+        //         goto decide;
+
+        // }
+        
+
+        
+
+
+
+
+        // Console.WriteLine("thank you");
+        // Console.WriteLine("bill amount = {0}", totalcoffeecost);
+        
+        
+        // Program to take 10 names and display it.
+        // Declare an array to store 10 names
+        //string[] names = new string[10];
+
+        // Loop to take input of 10 names
+        // for (int i = 0; i < names.Length; i++)
+        // {
+        //     Console.Write("Enter name {0}: ", i + 1);
+        //     names[i] = Console.ReadLine();
+        // }
+
+        // // Display all the names
+        // Console.WriteLine("\nThe entered names are:");
+        // foreach (string name in names)
+        // {
+        //     Console.WriteLine(name);
+        // }
+
+
+       // loops while loop and do while for printing even nos
+        // string userchoice = string.Empty;
+        // do
+        // {
+        //     Console.WriteLine("please enter your target");
+        //     int usertar = int.Parse(Console.ReadLine());
+
+        //     int start = 0;
+
+        //     while (start <= usertar)
+        //     {
+        //         Console.Write(start+" ");
+        //          start = start + 2;
+        //     }
+        
+        //     do
+        //     {
+        //         Console.WriteLine("do you want to continue - yes or no");
+
+        //         userchoice = Console.ReadLine().ToUpper();
+
+        //         if (userchoice != "YES"  && userchoice != "NO")
+        //         {
+        //             Console.WriteLine("invalid choice,please yes or no");
+        //         }
+        //     }while (userchoice != "YES" && userchoice != "NO");
+        // }while (userchoice == "YES");
+
+
+
+
+        // for loops //for each
+
+        // int[] Numbers = new int[4];
+
+        // Numbers[0] = 100;
+        // Numbers[1] = 101;
+        // Numbers[2] = 102;
+        // Numbers[3] = 103;
+
+        // foreach( int k in Numbers)
+        // {
+        //     Console.WriteLine(k);
+        // }
+
+        // // for (int j =0; j < Numbers.Length; j++)
+        // // {
+        // //     Console.WriteLine(Numbers[j]);
+            
+        // // }
+
+        // // int i = 0;
+
+        // while ( i < Numbers.Length)
+        // {
+        //     Console.WriteLine(Numbers[i]);
+        //     i++;
+        // }
+
+
+    //names input
+        //      string[] names = new string[10];
+        // int count = 0;
+
+        // while (count < 10)
+        // {
+        //     Console.Write("Enter name {0}: ", count + 1);
+        //     string input = Console.ReadLine();
+            
+        //     if (Array.Exists(names, name => name == input))
+        //     {
+        //         Console.WriteLine("Duplicate name detected. Please enter a different name.");
+        //     }
+        //     else
+        //     {
+        //         names[count] = input;
+        //         count++;
+        //     }
+        // }
+
+        // Console.WriteLine("\nEntered names are:");
+        // foreach (string name in names)
+        // {
+        //     Console.WriteLine(name);
+        // }
+
+        //loops
+
+        // for (int i = 0;i <=20; i++)
+        // {
+        //     if ( i % 2 ==1)
+        //         continue;
+
+        //     Console.WriteLine(i);
+        // }
