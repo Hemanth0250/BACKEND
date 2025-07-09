@@ -1,0 +1,15 @@
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfoInputs.cache
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfo.cs
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.sourcelink.json
+E:\csharplearn\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.exe
+E:\csharplearn\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.deps.json
+E:\csharplearn\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.runtimeconfig.json
+E:\csharplearn\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.dll
+E:\csharplearn\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.pdb
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.dll
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\refint\Abstraction.dll
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.pdb
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.genruntimeconfig.cache
+E:\csharplearn\OOPS\Abstraction\obj\Debug\net9.0\ref\Abstraction.dll
