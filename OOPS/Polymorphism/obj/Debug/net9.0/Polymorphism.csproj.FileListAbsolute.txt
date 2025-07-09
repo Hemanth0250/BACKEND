@@ -1,0 +1,15 @@
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.sourcelink.json
+E:\csharplearn\OOPS\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+E:\csharplearn\OOPS\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+E:\csharplearn\OOPS\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+E:\csharplearn\OOPS\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+E:\csharplearn\OOPS\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+E:\csharplearn\OOPS\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll
