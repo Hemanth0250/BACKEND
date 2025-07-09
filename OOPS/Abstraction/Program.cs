@@ -32,9 +32,9 @@ namespace AbstractionExample
         static void Main()
         {
             // Animal animal = new Animal(); // error, cannot create instance of abstract class
-            Dog dog = new Dog();
-            dog.MakeSound(); 
-            dog.Eat();      
+            Dog _dog = new Dog();
+            _dog.MakeSound(); 
+            _dog.Eat();      
         }
     }
 }
