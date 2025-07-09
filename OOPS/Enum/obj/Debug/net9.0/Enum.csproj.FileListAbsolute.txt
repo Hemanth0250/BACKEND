@@ -1,0 +1,15 @@
+E:\csharplearn\OOPS\Enum\bin\Debug\net9.0\Enum.exe
+E:\csharplearn\OOPS\Enum\bin\Debug\net9.0\Enum.deps.json
+E:\csharplearn\OOPS\Enum\bin\Debug\net9.0\Enum.runtimeconfig.json
+E:\csharplearn\OOPS\Enum\bin\Debug\net9.0\Enum.dll
+E:\csharplearn\OOPS\Enum\bin\Debug\net9.0\Enum.pdb
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.AssemblyInfoInputs.cache
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.AssemblyInfo.cs
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.csproj.CoreCompileInputs.cache
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.sourcelink.json
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.dll
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\refint\Enum.dll
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.pdb
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\Enum.genruntimeconfig.cache
+E:\csharplearn\OOPS\Enum\obj\Debug\net9.0\ref\Enum.dll

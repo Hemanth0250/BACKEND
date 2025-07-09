@@ -1,0 +1,15 @@
+E:\csharplearn\Exception\Trycatch\bin\Debug\net9.0\Trycatch.exe
+E:\csharplearn\Exception\Trycatch\bin\Debug\net9.0\Trycatch.deps.json
+E:\csharplearn\Exception\Trycatch\bin\Debug\net9.0\Trycatch.runtimeconfig.json
+E:\csharplearn\Exception\Trycatch\bin\Debug\net9.0\Trycatch.dll
+E:\csharplearn\Exception\Trycatch\bin\Debug\net9.0\Trycatch.pdb
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.AssemblyInfoInputs.cache
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.AssemblyInfo.cs
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.csproj.CoreCompileInputs.cache
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.sourcelink.json
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.dll
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\refint\Trycatch.dll
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.pdb
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\Trycatch.genruntimeconfig.cache
+E:\csharplearn\Exception\Trycatch\obj\Debug\net9.0\ref\Trycatch.dll
