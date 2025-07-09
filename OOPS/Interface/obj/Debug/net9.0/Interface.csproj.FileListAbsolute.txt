@@ -1,0 +1,15 @@
+E:\csharplearn\OOPS\Interface\bin\Debug\net9.0\Interface.exe
+E:\csharplearn\OOPS\Interface\bin\Debug\net9.0\Interface.deps.json
+E:\csharplearn\OOPS\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+E:\csharplearn\OOPS\Interface\bin\Debug\net9.0\Interface.dll
+E:\csharplearn\OOPS\Interface\bin\Debug\net9.0\Interface.pdb
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.dll
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\refint\Interface.dll
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.pdb
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+E:\csharplearn\OOPS\Interface\obj\Debug\net9.0\ref\Interface.dll
