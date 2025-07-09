@@ -1,0 +1,15 @@
+E:\csharplearn\defaultparamater\bin\Debug\net9.0\defaultparamater.exe
+E:\csharplearn\defaultparamater\bin\Debug\net9.0\defaultparamater.deps.json
+E:\csharplearn\defaultparamater\bin\Debug\net9.0\defaultparamater.runtimeconfig.json
+E:\csharplearn\defaultparamater\bin\Debug\net9.0\defaultparamater.dll
+E:\csharplearn\defaultparamater\bin\Debug\net9.0\defaultparamater.pdb
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.AssemblyInfoInputs.cache
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.AssemblyInfo.cs
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.csproj.CoreCompileInputs.cache
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.sourcelink.json
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.dll
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\refint\defaultparamater.dll
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.pdb
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\defaultparamater.genruntimeconfig.cache
+E:\csharplearn\defaultparamater\obj\Debug\net9.0\ref\defaultparamater.dll
