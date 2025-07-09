@@ -1,0 +1,15 @@
+E:\csharplearn\AccessModifiers\publicAM\bin\Debug\net9.0\publicAM.exe
+E:\csharplearn\AccessModifiers\publicAM\bin\Debug\net9.0\publicAM.deps.json
+E:\csharplearn\AccessModifiers\publicAM\bin\Debug\net9.0\publicAM.runtimeconfig.json
+E:\csharplearn\AccessModifiers\publicAM\bin\Debug\net9.0\publicAM.dll
+E:\csharplearn\AccessModifiers\publicAM\bin\Debug\net9.0\publicAM.pdb
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.AssemblyInfoInputs.cache
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.AssemblyInfo.cs
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.csproj.CoreCompileInputs.cache
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.sourcelink.json
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.dll
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\refint\publicAM.dll
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.pdb
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\publicAM.genruntimeconfig.cache
+E:\csharplearn\AccessModifiers\publicAM\obj\Debug\net9.0\ref\publicAM.dll

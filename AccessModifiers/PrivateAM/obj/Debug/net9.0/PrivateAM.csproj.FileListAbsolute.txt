@@ -1,0 +1,15 @@
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.AssemblyInfoInputs.cache
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.AssemblyInfo.cs
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.csproj.CoreCompileInputs.cache
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.sourcelink.json
+E:\csharplearn\AccessModifiers\PrivateAM\bin\Debug\net9.0\PrivateAM.exe
+E:\csharplearn\AccessModifiers\PrivateAM\bin\Debug\net9.0\PrivateAM.deps.json
+E:\csharplearn\AccessModifiers\PrivateAM\bin\Debug\net9.0\PrivateAM.runtimeconfig.json
+E:\csharplearn\AccessModifiers\PrivateAM\bin\Debug\net9.0\PrivateAM.dll
+E:\csharplearn\AccessModifiers\PrivateAM\bin\Debug\net9.0\PrivateAM.pdb
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.dll
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\refint\PrivateAM.dll
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.pdb
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\PrivateAM.genruntimeconfig.cache
+E:\csharplearn\AccessModifiers\PrivateAM\obj\Debug\net9.0\ref\PrivateAM.dll

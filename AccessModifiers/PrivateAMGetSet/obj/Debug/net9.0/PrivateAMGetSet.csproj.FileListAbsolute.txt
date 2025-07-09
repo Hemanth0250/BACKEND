@@ -1,0 +1,15 @@
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\bin\Debug\net9.0\PrivateAMGetSet.exe
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\bin\Debug\net9.0\PrivateAMGetSet.deps.json
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\bin\Debug\net9.0\PrivateAMGetSet.runtimeconfig.json
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\bin\Debug\net9.0\PrivateAMGetSet.dll
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\bin\Debug\net9.0\PrivateAMGetSet.pdb
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.AssemblyInfoInputs.cache
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.AssemblyInfo.cs
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.csproj.CoreCompileInputs.cache
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.sourcelink.json
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.dll
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\refint\PrivateAMGetSet.dll
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.pdb
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\PrivateAMGetSet.genruntimeconfig.cache
+E:\csharplearn\AccessModifiers\PrivateAMGetSet\obj\Debug\net9.0\ref\PrivateAMGetSet.dll

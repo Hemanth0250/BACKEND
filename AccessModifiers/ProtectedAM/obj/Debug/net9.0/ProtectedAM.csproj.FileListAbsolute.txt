@@ -1,0 +1,15 @@
+E:\csharplearn\AccessModifiers\ProtectedAM\bin\Debug\net9.0\ProtectedAM.exe
+E:\csharplearn\AccessModifiers\ProtectedAM\bin\Debug\net9.0\ProtectedAM.deps.json
+E:\csharplearn\AccessModifiers\ProtectedAM\bin\Debug\net9.0\ProtectedAM.runtimeconfig.json
+E:\csharplearn\AccessModifiers\ProtectedAM\bin\Debug\net9.0\ProtectedAM.dll
+E:\csharplearn\AccessModifiers\ProtectedAM\bin\Debug\net9.0\ProtectedAM.pdb
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.AssemblyInfoInputs.cache
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.AssemblyInfo.cs
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.csproj.CoreCompileInputs.cache
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.sourcelink.json
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.dll
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\refint\ProtectedAM.dll
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.pdb
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ProtectedAM.genruntimeconfig.cache
+E:\csharplearn\AccessModifiers\ProtectedAM\obj\Debug\net9.0\ref\ProtectedAM.dll
