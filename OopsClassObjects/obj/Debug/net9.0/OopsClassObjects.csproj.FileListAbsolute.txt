@@ -1,0 +1,15 @@
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.AssemblyInfoInputs.cache
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.AssemblyInfo.cs
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.csproj.CoreCompileInputs.cache
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.sourcelink.json
+E:\csharplearn\OopsClassObjects\bin\Debug\net9.0\OopsClassObjects.exe
+E:\csharplearn\OopsClassObjects\bin\Debug\net9.0\OopsClassObjects.deps.json
+E:\csharplearn\OopsClassObjects\bin\Debug\net9.0\OopsClassObjects.runtimeconfig.json
+E:\csharplearn\OopsClassObjects\bin\Debug\net9.0\OopsClassObjects.dll
+E:\csharplearn\OopsClassObjects\bin\Debug\net9.0\OopsClassObjects.pdb
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.dll
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\refint\OopsClassObjects.dll
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.pdb
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\OopsClassObjects.genruntimeconfig.cache
+E:\csharplearn\OopsClassObjects\obj\Debug\net9.0\ref\OopsClassObjects.dll
